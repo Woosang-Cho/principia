@@ -1,7 +1,9 @@
 # principia
 2019~2020 활동한 번동중학교 과학동아리 Principia의 기록을 정리했습니다.
 
-최종 활동 정리 링크는 https://url.kr/6aAYMb 이니까 혹시 필요하면 다운해서 읽어주세요. 
+최종 활동 정리 링크는 다음과 같으니까 혹시 필요하면 다운해서 읽어주세요. 
+
+https://github.com/Woosang-Cho/principia/blob/main/0.%20%EC%B5%9C%EC%A2%85%20%ED%99%9C%EB%8F%99%20%EC%A0%95%EB%A6%AC/pdf/Principia%20%ED%99%9C%EB%8F%99%20%EC%B5%9C%EC%A2%85%20%EC%A0%95%EB%A6%AC(%EC%B1%85%20%EC%A0%9C%EC%9E%91%20%EC%98%88%EC%A0%95).pdf  
 
 ## 파일 구성
 위 폴더에서 숫자가 붙어있는 폴더 세 개는 반드시 들어가서 확인해주었으면 좋겠습니다.
